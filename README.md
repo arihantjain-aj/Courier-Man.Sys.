@@ -1,4 +1,4 @@
-# Courier-Man.Sys.
+# Courier-MgmtSys
 
 *NOT FOR COMMERCIAL PURPOSE* .
 This Is Courier Management System Minor Project . 
