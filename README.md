@@ -1,12 +1,23 @@
-# Courier-MgmtSys
+# Courier Management System
 
-*NOT FOR COMMERCIAL PURPOSE* .
-This Is Courier Management System Minor Project . 
-Tools Used Visual Basic 6.0  , MS Access Database 
-With Databse, Images and Project Report 
+A comprehensive project developed using Visual Basic 6.0 and MS Access, designed to streamline courier operations with detailed reporting and management functionalities.<br>
 
 
-Screenshots
+Key features include:<br>
+• Comprehensive Data Forms:<br>
+•Consignor and Consignee Forms: Manage sender and receiver details efficiently.<br>
+•Courier Package Form: Record all package details, including dimensions, weight, and delivery status.<br>
+•Reports and Receipts:<br>
+•Destination-Wise Report: Analyze shipments based on their destinations.<br>
+•Summary Report: Get an overview of courier operations.<br>
+•Manifest Report: Generate manifests for efficient package tracking.<br>
+•Receipts and Invoices: Automatically generate detailed receipts and invoices for transactions.<br>
+•CRUD Operations: Perform Create, Read, Update, and Delete operations for streamlined data management.<br>
+
+This project demonstrates robust database integration and functional design to efficiently manage courier services while offering valuable insights through detailed reporting.<br>
+
+
+## Screenshots
 
 
 ![Destwise Report](https://github.com/arihantjain-aj/Courier-MgmtSys/assets/121403074/15226fc5-f1ed-43e2-a23b-c8fd64bae153)
